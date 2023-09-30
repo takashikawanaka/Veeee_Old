@@ -1,5 +1,5 @@
 FROM ubuntu:latest
 
-COPY Veeee /opt/
+COPY ./Veeee /opt/
 
 CMD ["/opt/Veeee"]
