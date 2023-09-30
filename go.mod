@@ -1,6 +1,6 @@
 module github.com/takashikawanaka/Veeee
 
-go 1.19
+go 1.21.1
 
 require (
 	dario.cat/mergo v1.0.0 // indirect
